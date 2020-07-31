@@ -2,7 +2,7 @@
 
 ## Purpose of Analysis
   
-  An analysis of Oahu, Hawaii's seasonal weather data was conducted to determine key statistics during the winter and summer seasons. The data was taken from the hawaii.sqlite database and analyzsed using sqlalchemy in Jupyter Notebook. Weather data from the months of June and December (for all years and weather stations) were analyzed and the results are shown in the following report. 
+    An analysis of Oahu, Hawaii's seasonal weather data was conducted to determine key statistics during the winter and summer seasons. The data was taken from the hawaii.sqlite database and analyzsed using sqlalchemy in Jupyter Notebook. Weather data from the months of June and December (for all years and weather stations) were analyzed and the results are shown in the following report. 
 
 ## Analysis
 
