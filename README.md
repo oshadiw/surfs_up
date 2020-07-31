@@ -27,3 +27,12 @@ june_df=df.loc[df.index.month == 6]
 
 ![Dec](https://github.com/oshadiw/surfs_up/blob/master/december_data.png)
 
+## Results
+
+### Precipitation
+
+  In the month of June (summer season) the average rainfall was 0.136 inches, with a min of 0in, max of 4.43in and a standard deviation of 0.336in. In December (winter season) the average rainfall was 0.215 inches, with a min of 0in, max of 6.42in and a standard deviation of 0.541in. Although the average rainfall is fairly similar in both months, there are some days in December where the rainfall is mich higher than in June. 
+
+### Temperature
+
+  In June, the average temperature is 74.9 degrees. The max temp is 85, min temp is 64, with a standard deviation of 3.25 degrees. The average temperature in December is 71 degrees, with a max of 83, mine of 56 and a standard devitation of 3.74. 
