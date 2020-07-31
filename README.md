@@ -17,4 +17,10 @@ These values were then added to a data frame with the columns as 'date','precipi
 june_df=df.loc[df.index.month == 6]
 ```
 
-  Then, the .describe() function was used to identify the summary statistics for each month. 
+  Then, the .describe() function was used to identify the summary statistics for each month.
+  
+  June Stats:
+  ![June](https://github.com/oshadiw/surfs_up/blob/master/june_data.png)
+  
+  December Stats:
+  ![Dec](https://github.com/oshadiw/surfs_up/blob/master/december_data.png)
