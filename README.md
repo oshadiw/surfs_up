@@ -1,8 +1,8 @@
-# surfs_up
+# Surfs Up!
 
 ## Purpose of Analysis
   
-    An analysis of Oahu, Hawaii's seasonal weather data was conducted to determine key statistics during the winter and summer seasons. The data was taken from the hawaii.sqlite database and analyzsed using sqlalchemy in Jupyter Notebook. Weather data from the months of June and December (for all years and weather stations) were analyzed and the results are shown in the following report. 
+  An analysis of Oahu, Hawaii's seasonal weather data was conducted to determine key statistics during the winter and summer seasons. The data was taken from the hawaii.sqlite database and analyzsed using sqlalchemy in Jupyter Notebook. Weather data from the months of June and December (for all years and weather stations) were analyzed and the results are shown in the following report. 
 
 ## Analysis
 
@@ -35,4 +35,8 @@ june_df=df.loc[df.index.month == 6]
 
 ### Temperature
 
-  In June, the average temperature is 74.9 degrees. The max temp is 85, min temp is 64, with a standard deviation of 3.25 degrees. The average temperature in December is 71 degrees, with a max of 83, mine of 56 and a standard devitation of 3.74. 
+  In June, the average temperature is 74.9 degrees. The max temp is 85, min temp is 64, with a standard deviation of 3.25 degrees. The average temperature in December is 71 degrees, with a max of 83, mine of 56 and a standard devitation of 3.74. Overall, the temperature is cooler in December although there are a few days that are as warm as the summer month. 
+  
+## Further Reccomendations
+
+  In order to have a more complete understanding of seasonal weather in Oahu, an analysis of the entire rainy and dry seasons should be conducted. Another recommendation is to determine the best time for surfing, in terms of waves and tides, and comparing that to the rain and temperature data to ensure that when the weather is good, the surfing conditions are also optimal. 
